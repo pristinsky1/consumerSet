@@ -1,0 +1,6 @@
+To access the consumer dataset, we have provided a link below:
+https://catalog.data.gov/dataset/consumer-complaint-database/resource/484bc506-82b0-4225-ab10-496cf7a1c2e9
+
+Through this link, there will be a heading with the Comma Seperated Values File. Click on that download file and put
+it in the location of desktop to be able to run our code properly.
+Unfortunately, the file is too big to upload to github, so we have to work with it locally.
